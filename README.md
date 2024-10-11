@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
  \____\___/|_| |_|  \___|_|    |_| \_|\___|\__| \_/\_/ \___/|_|  |_|\_\
                                                                         
 ```
+
+is a decentralized #smartaccount custody solution for Bitcoin. Manage and earn from your #Bitcoin L1 and L2 assets.
